@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimplePolymorphismDemo", "S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demonstration of an abstract class", "Demonstration of an abstract class\Demonstration of an abstract class.vcxproj", "{903CBC11-202F-46B3-9CF3-7E38426F9079}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Another abstract class and polymorphism demo", "Another abstract class and polymorphism demo\Another abstract class and polymorphism demo.vcxproj", "{1822824E-3482-4A60-95AF-891CE261F2AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A demo of why member initializer syntax is used", "One student submission of the Car lab\One student submission of the Car lab.vcxproj", "{DE88B0F8-739D-40A8-A05B-11F42DDFAF27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +55,22 @@ Global
 		{903CBC11-202F-46B3-9CF3-7E38426F9079}.Release|x64.Build.0 = Release|x64
 		{903CBC11-202F-46B3-9CF3-7E38426F9079}.Release|x86.ActiveCfg = Release|Win32
 		{903CBC11-202F-46B3-9CF3-7E38426F9079}.Release|x86.Build.0 = Release|Win32
+		{1822824E-3482-4A60-95AF-891CE261F2AA}.Debug|x64.ActiveCfg = Debug|x64
+		{1822824E-3482-4A60-95AF-891CE261F2AA}.Debug|x64.Build.0 = Debug|x64
+		{1822824E-3482-4A60-95AF-891CE261F2AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{1822824E-3482-4A60-95AF-891CE261F2AA}.Debug|x86.Build.0 = Debug|Win32
+		{1822824E-3482-4A60-95AF-891CE261F2AA}.Release|x64.ActiveCfg = Release|x64
+		{1822824E-3482-4A60-95AF-891CE261F2AA}.Release|x64.Build.0 = Release|x64
+		{1822824E-3482-4A60-95AF-891CE261F2AA}.Release|x86.ActiveCfg = Release|Win32
+		{1822824E-3482-4A60-95AF-891CE261F2AA}.Release|x86.Build.0 = Release|Win32
+		{DE88B0F8-739D-40A8-A05B-11F42DDFAF27}.Debug|x64.ActiveCfg = Debug|x64
+		{DE88B0F8-739D-40A8-A05B-11F42DDFAF27}.Debug|x64.Build.0 = Debug|x64
+		{DE88B0F8-739D-40A8-A05B-11F42DDFAF27}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE88B0F8-739D-40A8-A05B-11F42DDFAF27}.Debug|x86.Build.0 = Debug|Win32
+		{DE88B0F8-739D-40A8-A05B-11F42DDFAF27}.Release|x64.ActiveCfg = Release|x64
+		{DE88B0F8-739D-40A8-A05B-11F42DDFAF27}.Release|x64.Build.0 = Release|x64
+		{DE88B0F8-739D-40A8-A05B-11F42DDFAF27}.Release|x86.ActiveCfg = Release|Win32
+		{DE88B0F8-739D-40A8-A05B-11F42DDFAF27}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
